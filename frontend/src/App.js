@@ -20,7 +20,11 @@ function App() {
           </div>{" "}
           <div className="texts">
             <h2>The DevOps Lifecycle</h2>
-            <p>
+            <p className="info">
+              <a className="author">Dawid paszko</a>
+              <time>2023-02-08 16:45</time>
+            </p>
+            <p className="summary">
               DevOps is a collection of cultural philosophies, practices, and
               tools that increase an organization's ability to deliver
               applications and services at high velocity.
@@ -33,7 +37,11 @@ function App() {
           </div>
           <div className="texts">
             <h2>The DevOps Lifecycle</h2>
-            <p>
+            <p className="info">
+              <a className="author">Dawid paszko</a>
+              <time>2023-02-08 16:45</time>
+            </p>
+            <p className="summary">
               DevOps is a collection of cultural philosophies, practices, and
               tools that increase an organization's ability to deliver
               applications and services at high velocity.
@@ -46,7 +54,11 @@ function App() {
           </div>{" "}
           <div className="texts">
             <h2>The DevOps Lifecycle</h2>
-            <p>
+            <p className="info">
+              <a className="author">Dawid paszko</a>
+              <time>2023-02-08 16:45</time>
+            </p>
+            <p className="summary">
               DevOps is a collection of cultural philosophies, practices, and
               tools that increase an organization's ability to deliver
               applications and services at high velocity.
@@ -59,7 +71,11 @@ function App() {
           </div>{" "}
           <div className="texts">
             <h2>The DevOps Lifecycle</h2>
-            <p>
+            <p className="info">
+              <a className="author">Dawid paszko</a>
+              <time>2023-02-08 16:45</time>
+            </p>
+            <p className="summary">
               DevOps is a collection of cultural philosophies, practices, and
               tools that increase an organization's ability to deliver
               applications and services at high velocity.
